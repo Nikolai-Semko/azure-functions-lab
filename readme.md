@@ -4,7 +4,7 @@ This repository contains two Azure Function apps demonstrating output bindings f
 
 ## 📹 Demo Video
 
-[Watch the 5-minute demo on YouTube](https://youtu.be/GVtCBl7YDA0)
+[Watch the 5-minute demo on YouTube](https://youtu.be/hapWRmBGUho)
 
 
 ## Overview
