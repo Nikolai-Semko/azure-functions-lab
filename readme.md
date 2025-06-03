@@ -4,7 +4,7 @@ This repository contains Azure Functions created as part of a lab exercise demon
 
 ## 📹 Demo Video
 
-[Watch the 5-minute demo on YouTube](https://youtu.be/hapWRmBGUho)
+[Watch the 5-minute demo on YouTube](https://youtu.be/hAErAQAwXW0)
 
 ## Lab Objectives
 
